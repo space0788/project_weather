@@ -377,48 +377,6 @@ Widget _weatherListView() {
           ],
         ),
       ),
-      // ListTile(
-      //   title: Text('Sun'),
-      //   subtitle: Text('Today clear'),
-      //   leading: Icon(Icons.wb_sunny),
-      //   trailing: Icon(Icons.keyboard_arrow_right),
-      // ),
-      // ListTile(
-      //   title: Text('Sun'),
-      //   subtitle: Text('Today clear'),
-      //   leading: Icon(Icons.wb_sunny),
-      //   trailing: Icon(Icons.keyboard_arrow_right),
-      // ),
-      // ListTile(
-      //   title: Text('Sun'),
-      //   subtitle: Text('Today clear'),
-      //   leading: Icon(Icons.wb_sunny),
-      //   trailing: Icon(Icons.keyboard_arrow_right),
-      // ),
-      // ListTile(
-      //   title: Text('Sun'),
-      //   subtitle: Text('Today clear'),
-      //   leading: Icon(Icons.wb_sunny),
-      //   trailing: Icon(Icons.keyboard_arrow_right),
-      // ),
-      // ListTile(
-      //   title: Text('Sun'),
-      //   subtitle: Text('Today clear'),
-      //   leading: Icon(Icons.wb_sunny),
-      //   trailing: Icon(Icons.keyboard_arrow_right),
-      // ),
-      // ListTile(
-      //   title: Text('Sun'),
-      //   subtitle: Text('Today clear'),
-      //   leading: Icon(Icons.wb_sunny),
-      //   trailing: Icon(Icons.keyboard_arrow_right),
-      // ),
-      // ListTile(
-      //   title: Text('Sun'),
-      //   subtitle: Text('Today clear'),
-      //   leading: Icon(Icons.wb_sunny),
-      //   trailing: Icon(Icons.keyboard_arrow_right),
-      // ),
     ],
   );
 }
